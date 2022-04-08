@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning 万物的可摸鱼化 & 高效摸鱼 (The Dead Working of Anything & Effective Dead Working)
 - 💞️ I’m looking to collaborate on 有缘人 (the one)
 - 📫 How to reach me by 随缘 (life gathering us)
+- Registed at 4/28/2022
 
 <!---
 HanserHorror/HanserHorror is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
